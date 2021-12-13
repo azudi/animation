@@ -142,7 +142,7 @@ button:focus{
 
      .nav-contain{
          position: fixed !important;-ms-overflow-style: none;
-         width:300px;top:0;left:-100%;scrollbar-width: none;
+         width:250px;top:0;left:-100%;scrollbar-width: none;
          height:100vh;overflow: hidden;z-index: 105;padding: 1em;
          overflow-y: scroll;background-color: rgb(12, 17, 51);
          transition: 0.5s;
